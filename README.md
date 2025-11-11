@@ -1,4 +1,4 @@
-# Metacogna.ai
+# Metacogna.ai by PratejraTech
 
 **Metacogna.ai** is an AI-native orchestration platform designed to **think about thinking**.  
 It helps individuals and teams plan, iterate, and execute complex ideas by combining **meta-cognitive reasoning**, **intelligent orchestration**, and **tool adapters** into a seamless workflow.
